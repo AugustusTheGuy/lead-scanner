@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+scan/out/
+scan/state/
+scan/platform_status.json
+scan/tests/fixtures/*
+!scan/tests/fixtures/.gitkeep
+.DS_Store
